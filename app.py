@@ -1,4 +1,5 @@
-from ecommerce.shopping import sales
+print("A complicated script")
+# from ecommerce.shopping import sales
 
 # # ['__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', 'calc_shipping', 'calc_tax', 'contact']
 # # print(dir(sales))
