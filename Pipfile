@@ -10,6 +10,7 @@ selenium = "*"
 pypdf2 = "*"
 django = "*"
 pylint-django = "*"
+django-tastypie = "*"
 
 [dev-packages]
 
