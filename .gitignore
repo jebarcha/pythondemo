@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,data,images
 
 config.py
-static
+# static
 
 ### Data ###
 *.csv
